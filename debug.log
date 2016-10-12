@@ -1,0 +1,6 @@
+[0905/111850:INFO:CONSOLE(0)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check http://xhr.spec.whatwg.org/.", source:  (0)
+[0905/133345:INFO:CONSOLE(31)] "WebSocket connection to 'ws://web.push.126.net/socket.io/1/websocket/7vIx_zDVl-M8OduQFtU6' failed: Error in connection establishment: net::ERR_CONNECTION_TIMED_OUT", source: http://note.youdao.com/group/7eaf1e58.index.js (31)
+[0905/133345:INFO:CONSOLE(101)] "pomelo init error:[object Event]", source: http://note.youdao.com/group/7eaf1e58.index.js (101)
+[0905/182455:INFO:CONSOLE(0)] "Application Cache Checking event", source: http://note.youdao.com/group/#/28408237/note/112255770 (0)
+[0905/182455:INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://note.youdao.com/group/#/28408237/note/112255770 (0)
+[0908/191750:ERROR:browser_gpu_channel_host_factory.cc(132)] Failed to launch GPU process.
